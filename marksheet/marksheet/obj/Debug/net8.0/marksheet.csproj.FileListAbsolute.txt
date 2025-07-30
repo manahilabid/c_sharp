@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#_learning\marksheet\marksheet\bin\Debug\net8.0\marksheet.exe
+C:\Users\Admin\Desktop\C#_learning\marksheet\marksheet\bin\Debug\net8.0\marksheet.deps.json
+C:\Users\Admin\Desktop\C#_learning\marksheet\marksheet\bin\Debug\net8.0\marksheet.runtimeconfig.json
+C:\Users\Admin\Desktop\C#_learning\marksheet\marksheet\bin\Debug\net8.0\marksheet.dll
+C:\Users\Admin\Desktop\C#_learning\marksheet\marksheet\bin\Debug\net8.0\marksheet.pdb
+C:\Users\Admin\Desktop\C#_learning\marksheet\marksheet\obj\Debug\net8.0\marksheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#_learning\marksheet\marksheet\obj\Debug\net8.0\marksheet.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#_learning\marksheet\marksheet\obj\Debug\net8.0\marksheet.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#_learning\marksheet\marksheet\obj\Debug\net8.0\marksheet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#_learning\marksheet\marksheet\obj\Debug\net8.0\marksheet.sourcelink.json
+C:\Users\Admin\Desktop\C#_learning\marksheet\marksheet\obj\Debug\net8.0\marksheet.dll
+C:\Users\Admin\Desktop\C#_learning\marksheet\marksheet\obj\Debug\net8.0\refint\marksheet.dll
+C:\Users\Admin\Desktop\C#_learning\marksheet\marksheet\obj\Debug\net8.0\marksheet.pdb
+C:\Users\Admin\Desktop\C#_learning\marksheet\marksheet\obj\Debug\net8.0\marksheet.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#_learning\marksheet\marksheet\obj\Debug\net8.0\ref\marksheet.dll
