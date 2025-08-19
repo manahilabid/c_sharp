@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C#_learning\\class_09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{598FA18F-B5B5-4F46-B0E4-1C51BCB2FFAB}|class_09\\class_09.csproj|c:\\users\\admin\\desktop\\c#_learning\\class_09\\class_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598FA18F-B5B5-4F46-B0E4-1C51BCB2FFAB}|class_09\\class_09.csproj|solutionrelative:class_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598FA18F-B5B5-4F46-B0E4-1C51BCB2FFAB}|class_09\\class_09.csproj|c:\\users\\admin\\desktop\\c#_learning\\class_09\\class_09\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598FA18F-B5B5-4F46-B0E4-1C51BCB2FFAB}|class_09\\class_09.csproj|solutionrelative:class_09\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#_learning\\class_09\\class_09\\Animal.cs",
+              "RelativeDocumentMoniker": "class_09\\Animal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#_learning\\class_09\\class_09\\Animal.cs*",
+              "RelativeToolTip": "class_09\\Animal.cs*",
+              "ViewState": "AgIAABkAAAAgZGZmZmY8wCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:10:57.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#_learning\\class_09\\class_09\\Program.cs",
+              "RelativeDocumentMoniker": "class_09\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#_learning\\class_09\\class_09\\Program.cs*",
+              "RelativeToolTip": "class_09\\Program.cs*",
+              "ViewState": "AgIAAAQAAACgMjMzMzMrwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:09:56.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

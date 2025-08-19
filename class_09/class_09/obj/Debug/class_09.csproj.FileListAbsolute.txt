@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C#_learning\class_09\class_09\bin\Debug\class_09.exe.config
+C:\Users\Admin\Desktop\C#_learning\class_09\class_09\bin\Debug\class_09.exe
+C:\Users\Admin\Desktop\C#_learning\class_09\class_09\bin\Debug\class_09.pdb
+C:\Users\Admin\Desktop\C#_learning\class_09\class_09\obj\Debug\class_09.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#_learning\class_09\class_09\obj\Debug\class_09.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#_learning\class_09\class_09\obj\Debug\class_09.exe
+C:\Users\Admin\Desktop\C#_learning\class_09\class_09\obj\Debug\class_09.pdb
+C:\Users\Admin\Desktop\C#_learning\class_09\class_09\obj\Debug\class_09.exe.config
