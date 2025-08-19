@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#_learning\class_04\class_04\bin\Debug\net8.0\class_04.exe
+C:\Users\Admin\Desktop\C#_learning\class_04\class_04\bin\Debug\net8.0\class_04.deps.json
+C:\Users\Admin\Desktop\C#_learning\class_04\class_04\bin\Debug\net8.0\class_04.runtimeconfig.json
+C:\Users\Admin\Desktop\C#_learning\class_04\class_04\bin\Debug\net8.0\class_04.dll
+C:\Users\Admin\Desktop\C#_learning\class_04\class_04\bin\Debug\net8.0\class_04.pdb
+C:\Users\Admin\Desktop\C#_learning\class_04\class_04\obj\Debug\net8.0\class_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#_learning\class_04\class_04\obj\Debug\net8.0\class_04.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#_learning\class_04\class_04\obj\Debug\net8.0\class_04.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#_learning\class_04\class_04\obj\Debug\net8.0\class_04.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#_learning\class_04\class_04\obj\Debug\net8.0\class_04.sourcelink.json
+C:\Users\Admin\Desktop\C#_learning\class_04\class_04\obj\Debug\net8.0\class_04.dll
+C:\Users\Admin\Desktop\C#_learning\class_04\class_04\obj\Debug\net8.0\refint\class_04.dll
+C:\Users\Admin\Desktop\C#_learning\class_04\class_04\obj\Debug\net8.0\class_04.pdb
+C:\Users\Admin\Desktop\C#_learning\class_04\class_04\obj\Debug\net8.0\class_04.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#_learning\class_04\class_04\obj\Debug\net8.0\ref\class_04.dll
