@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C#_learning\\class_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6954243-E075-49A1-8257-94D42CAD8175}|class_10\\class_10.csproj|c:\\users\\admin\\desktop\\c#_learning\\class_10\\class_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6954243-E075-49A1-8257-94D42CAD8175}|class_10\\class_10.csproj|solutionrelative:class_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6954243-E075-49A1-8257-94D42CAD8175}|class_10\\class_10.csproj|c:\\users\\admin\\desktop\\c#_learning\\class_10\\class_10\\birds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6954243-E075-49A1-8257-94D42CAD8175}|class_10\\class_10.csproj|solutionrelative:class_10\\birds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6954243-E075-49A1-8257-94D42CAD8175}|class_10\\class_10.csproj|c:\\users\\admin\\desktop\\c#_learning\\class_10\\class_10\\car1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6954243-E075-49A1-8257-94D42CAD8175}|class_10\\class_10.csproj|solutionrelative:class_10\\car1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Birds.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#_learning\\class_10\\class_10\\Birds.cs",
+              "RelativeDocumentMoniker": "class_10\\Birds.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#_learning\\class_10\\class_10\\Birds.cs*",
+              "RelativeToolTip": "class_10\\Birds.cs*",
+              "ViewState": "AgIAAAkAAAAA9///////vxEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T13:24:36.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#_learning\\class_10\\class_10\\Car1.cs",
+              "RelativeDocumentMoniker": "class_10\\Car1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#_learning\\class_10\\class_10\\Car1.cs",
+              "RelativeToolTip": "class_10\\Car1.cs",
+              "ViewState": "AgIAABkAAABw/v////82wB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T13:04:02.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#_learning\\class_10\\class_10\\Program.cs",
+              "RelativeDocumentMoniker": "class_10\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#_learning\\class_10\\class_10\\Program.cs*",
+              "RelativeToolTip": "class_10\\Program.cs*",
+              "ViewState": "AgIAABIAAAAA/f////8PwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T13:01:50.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
