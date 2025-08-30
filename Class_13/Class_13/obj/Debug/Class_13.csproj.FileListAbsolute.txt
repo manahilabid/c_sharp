@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C#_learning\Class_13\Class_13\bin\Debug\Class_13.exe.config
+C:\Users\Admin\Desktop\C#_learning\Class_13\Class_13\bin\Debug\Class_13.exe
+C:\Users\Admin\Desktop\C#_learning\Class_13\Class_13\bin\Debug\Class_13.pdb
+C:\Users\Admin\Desktop\C#_learning\Class_13\Class_13\obj\Debug\Class_13.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#_learning\Class_13\Class_13\obj\Debug\Class_13.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#_learning\Class_13\Class_13\obj\Debug\Class_13.exe
+C:\Users\Admin\Desktop\C#_learning\Class_13\Class_13\obj\Debug\Class_13.pdb
+C:\Users\Admin\Desktop\C#_learning\Class_13\Class_13\obj\Debug\Class_13.exe.config
