@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C#_learning\\lass_16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{979446D0-8B82-412A-A2F9-E2BC51C996C2}|lass_16\\lass_16.csproj|c:\\users\\admin\\desktop\\c#_learning\\lass_16\\lass_16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979446D0-8B82-412A-A2F9-E2BC51C996C2}|lass_16\\lass_16.csproj|solutionrelative:lass_16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979446D0-8B82-412A-A2F9-E2BC51C996C2}|lass_16\\lass_16.csproj|c:\\users\\admin\\desktop\\c#_learning\\lass_16\\lass_16\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979446D0-8B82-412A-A2F9-E2BC51C996C2}|lass_16\\lass_16.csproj|solutionrelative:lass_16\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979446D0-8B82-412A-A2F9-E2BC51C996C2}|lass_16\\lass_16.csproj|c:\\users\\admin\\desktop\\c#_learning\\lass_16\\lass_16\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{979446D0-8B82-412A-A2F9-E2BC51C996C2}|lass_16\\lass_16.csproj|solutionrelative:lass_16\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979446D0-8B82-412A-A2F9-E2BC51C996C2}|lass_16\\lass_16.csproj|c:\\users\\admin\\desktop\\c#_learning\\lass_16\\lass_16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{979446D0-8B82-412A-A2F9-E2BC51C996C2}|lass_16\\lass_16.csproj|solutionrelative:lass_16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#_learning\\lass_16\\lass_16\\Form1.cs",
+              "RelativeDocumentMoniker": "lass_16\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#_learning\\lass_16\\lass_16\\Form1.cs",
+              "RelativeToolTip": "lass_16\\Form1.cs",
+              "ViewState": "AgIAABkAAAAA+P////8XwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:11:40.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#_learning\\lass_16\\lass_16\\Form2.cs",
+              "RelativeDocumentMoniker": "lass_16\\Form2.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#_learning\\lass_16\\lass_16\\Form2.cs",
+              "RelativeToolTip": "lass_16\\Form2.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAawB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:23:42.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#_learning\\lass_16\\lass_16\\Form2.cs",
+              "RelativeDocumentMoniker": "lass_16\\Form2.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#_learning\\lass_16\\lass_16\\Form2.cs [Design]",
+              "RelativeToolTip": "lass_16\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:19:14.567Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#_learning\\lass_16\\lass_16\\Form1.cs",
+              "RelativeDocumentMoniker": "lass_16\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#_learning\\lass_16\\lass_16\\Form1.cs [Design]",
+              "RelativeToolTip": "lass_16\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:06:58.03Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

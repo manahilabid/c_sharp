@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C#_learning\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Admin\Desktop\C#_learning\Project\Project\bin\Debug\Project.exe
+C:\Users\Admin\Desktop\C#_learning\Project\Project\bin\Debug\Project.pdb
+C:\Users\Admin\Desktop\C#_learning\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#_learning\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#_learning\Project\Project\obj\Debug\Project.exe
+C:\Users\Admin\Desktop\C#_learning\Project\Project\obj\Debug\Project.pdb
+C:\Users\Admin\Desktop\C#_learning\Project\Project\obj\Debug\Project.exe.config

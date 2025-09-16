@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\C#_learning\Class_15\Class_15\bin\Debug\Class_15.exe.config
+C:\Users\Admin\Desktop\C#_learning\Class_15\Class_15\bin\Debug\Class_15.exe
+C:\Users\Admin\Desktop\C#_learning\Class_15\Class_15\bin\Debug\Class_15.pdb
+C:\Users\Admin\Desktop\C#_learning\Class_15\Class_15\obj\Debug\Class_15.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#_learning\Class_15\Class_15\obj\Debug\Class_15.Form1.resources
+C:\Users\Admin\Desktop\C#_learning\Class_15\Class_15\obj\Debug\Class_15.Properties.Resources.resources
+C:\Users\Admin\Desktop\C#_learning\Class_15\Class_15\obj\Debug\Class_15.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#_learning\Class_15\Class_15\obj\Debug\Class_15.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#_learning\Class_15\Class_15\obj\Debug\Class_15.exe
+C:\Users\Admin\Desktop\C#_learning\Class_15\Class_15\obj\Debug\Class_15.pdb
+C:\Users\Admin\Desktop\C#_learning\Class_15\Class_15\obj\Debug\Class_15.exe.config
